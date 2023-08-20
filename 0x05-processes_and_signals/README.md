@@ -2,17 +2,6 @@
 
 This project involved learning how to handle process ID's and signals in Bash:
 
-<p><strong>man or help</strong>:</p>
-
-<ul>
-<li><code>ps</code></li>
-<li><code>pgrep</code></li>
-<li><code>pkill</code></li>
-<li><code>kill</code></li>
-<li><code>exit</code></li>
-<li><code>trap</code></li>
-</ul>
-
 ## Learning Objectives
 
 * What is a PID
